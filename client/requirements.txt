@@ -1,6 +1,6 @@
 APScheduler==2.1.2
 CherryPy==3.2.2
-PyYAML==3.10
+PyYAML==5.4
 Pykka==1.2.0
 argparse==1.2.1
 beautifulsoup4==4.2.1
